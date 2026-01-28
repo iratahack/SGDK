@@ -69,6 +69,7 @@ Here's a list of useful tools that will help you to create your assets:
 #### Map / Level
 
 * [16Tile](https://allone-works.itch.io/16tile): SGDK specific tile map editor
+* [PNGPalPrio4SGDK](https://github.com/Rahzelk/pngpalprio4sgdk): SGDK specific PNG image editor letting you to setup the tile palette index and priority information easily
 * [Tiled](https://www.mapeditor.org/): Tile map editor, supported by SGDK resource compiler tool
 * [LDTK](https://deepnight.net/tools/ldtk-2d-level-editor/): New but powerful tile map editor (support Tiled formats as well)
 * [Ogmo](https://ogmo-editor-3.github.io/): Another nice and simple tile map editor
@@ -125,7 +126,7 @@ https://gitlab.com/doragasu/docker-sgdk
 Almost everyone now use VSCode editor and the nice extension made by zerasul called *Genesis-Code* makes SGDK integration even smoother:<br>
 https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code
 Just install and setup it as it's detailled on the extension page ('GDK/SGDK' and 'Gens' emulator paths mainly) and you're ready to use it :)<br>
-You can type *Genesis* in the command palette (Ctrl+Shift+P shortcut) to see all commands supported by the extension.<br>
+You can type *>Genesis* in the command palette (Ctrl+Shift+P shortcut) to see all commands supported by the extension.<br>
 SGDK also now integrates a VSCode template located in _project/template_ folder so you can just create a copy of this folder (for instance _project/test_) and open it in VSCode to start your own project.
 
 ### AWS
@@ -213,3 +214,4 @@ Demons of Asteborg [Neofid Studios](https://neofid-studios.com/)
 * [ThunderCats MD](https://github.com/mxfolken/thundercats_megadrive) by Rolando Fernández Benavidez.
 * [Travel](https://www.pouet.net/prod.php?which=65975) by Resistance
 * [Wacky Willy Weiner Sausage Surfer](https://globalgamejam.org/2017/games/wacky-willy-weiner-sausage-surfer) made for the GGJ 2017
+
